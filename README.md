@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
+<!-- 👋 -->
 - 🔭 I’m currently working on Microsoft  
 - 🌱 I’m currently learning ML/Algorithm  
 - 📫 How to reach me: whuwkl@gmail.com  
