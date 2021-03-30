@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)
+
 <!--
 **Muyangwen/Muyangwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
