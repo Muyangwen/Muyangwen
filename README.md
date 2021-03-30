@@ -5,10 +5,12 @@
 - 📫 How to reach me: whuwkl@gmail.com  
 
 ### ⚡Technology
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+- *Language:*  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-*My CodeForce:* [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
+- *CodeForce:* [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
+
+### 🌍*My GitHub*
 ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark)
 <!--
 **Muyangwen/Muyangwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
