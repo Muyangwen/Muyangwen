@@ -5,7 +5,7 @@
 - 📫 How to reach me: whuwkl@gmail.com  
 
 [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
-
+![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=radical)
 <!--
 **Muyangwen/Muyangwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
