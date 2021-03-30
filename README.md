@@ -1,8 +1,12 @@
 ### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
 <!-- 👋 -->
 - 🔭 I’m currently working on Microsoft  
-- 🌱 I’m currently learning ML/Algorithm  
+- 🌱 I’m currently learning ML/Algorithm 
 - 📫 How to reach me: whuwkl@gmail.com  
+
+### ⚡Technology
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
 ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark)
@@ -19,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align='center'><i>Work-Life Balance</i></h1>
