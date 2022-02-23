@@ -2,7 +2,7 @@
 <!-- 👋 -->
 - 🔭 I’m currently working on Microsoft  
 - 🌱 I’m currently learning ML/Algorithm 
-- 📫 How to reach me: whuwkl@gmail.com  
+- 📫 How to reach me: whuwkl@gmail.com / pkuwkl@gmail.com
 
 ### ⚡Technology
 - *Language:*  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
